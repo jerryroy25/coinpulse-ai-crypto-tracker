@@ -40,7 +40,7 @@ Crypto markets move fast — 24/7. Traders who manually monitor prices miss move
 
 ## Demo
 
-📹 [Watch the Demo Video](https://drive.google.com/drive/folders/15uxDVtpZNOiKEkX8Adwem0bAle8y0BBn)
+📹 [Watch the Demo Video](https://drive.google.com/file/d/1W2yt3TyFoUBzfPhJW1wweR-F7MDeHHXz/view?usp=drive_link)
 
 ---
 
